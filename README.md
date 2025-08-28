@@ -102,8 +102,8 @@ How to Run:
 
 Clone this repository:
 
-git clone https://github.com/your-username/car-price-prediction.git
-cd car-price-prediction
+git clone [https://github.com/your-username/car-price-prediction.git
+cd car-price-prediction](https://github.com/manoj5412/code_alpha-Car-Price-Prediction.git)
 
 
 Install dependencies:
